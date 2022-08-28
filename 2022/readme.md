@@ -2,3 +2,8 @@
 
 # Корреляции основных предметов
 ![](disciplines_corr.png)
+
+
+## Диаграммы рассеивания для дисциплин
+
+- [по матрице корреляции](https://vetrovsv.github.io/clusters/disciclines_corr_scatterplot.html)
