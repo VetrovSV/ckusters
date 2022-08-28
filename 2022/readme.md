@@ -6,6 +6,6 @@
 
 ## Диаграммы рассеивания для дисциплин
 
-- [по матрице корреляции](https://vetrovsv.github.io/clusters/disciclines_corr_scatterplot.html)
-- [по успеваемости кажого студента](https://vetrovsv.github.io/clusters/disciclines_student_scatterplot.html)
-- [по соотношению всех видов оценок](https://vetrovsv.github.io/clusters/disciplines_grades_scatterplot.html)
+- по матрице корреляции: [2d](https://vetrovsv.github.io/clusters/disciclines_corr_scatterplot.html), [3d](https://vetrovsv.github.io/clusters/disciclines_corr_scatterplot_3d.html)
+- по успеваемости кажого студента: [2d](https://vetrovsv.github.io/clusters/disciclines_student_scatterplot.html), [3d](https://vetrovsv.github.io/clusters/disciclines_student_scatterplot_3d.html)
+- по соотношению всех видов оценок: [2d](https://vetrovsv.github.io/clusters/disciplines_grades_scatterplot.html), [3d](https://vetrovsv.github.io/clusters/disciplines_grades_scatterplot_3d.html)
